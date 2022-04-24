@@ -1,6 +1,8 @@
 <h3 align="center">
   Welcome to DAAMI Adem's profile!
+  <br/>
   👨‍💻 I’m currently working on web development technologies like JavaScript,TypeScript, Java, Spring, Node.
+  <br/>
   📚 I’m currently learning everything about Frontend and Backend technologies 😅
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -63,15 +65,13 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="eclipse" src=" https://camo.githubusercontent.com/8ed407ecd9ee9a526e83ca269f43c2edf5aee89eda6a0f6776e256f0b8c8fd58/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d666666666666"></a>
- </p>
+    
 
 ## 📊 Github stats
 
