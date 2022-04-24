@@ -9,6 +9,8 @@
 </h3>
 
 <br/>
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
