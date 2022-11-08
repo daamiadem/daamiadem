@@ -26,7 +26,7 @@
 </div>
   
 ### Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/daamiadem/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/daamiadem/daamiadem/blob/output/github-contribution-grid-snake.gif)
 
 ###
   
